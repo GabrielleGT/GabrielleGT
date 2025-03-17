@@ -1,6 +1,6 @@
 ### ʕ•́ᴥ•̀ʔっ Hi there! 
 
-- 🚀 1st year Systems Analysis and Development 👩‍💻 [FIAP](https://www.fiap.com.br)
+- 🚀 2nd year Systems Analysis and Development 👩‍💻 [FIAP](https://www.fiap.com.br)
 - 🌱 Learning Flutter on the side                            
 - ✨ 25 yo 
 - 🗺️ Rio grande Sul- Brazil 🧉
